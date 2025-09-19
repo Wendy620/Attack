@@ -42,7 +42,43 @@ corpus_poisoning/datasets/
 
 ## ⚙️ Installation
 
+Clone this repo and install Python dependencies:
+
+```bash
+git clone https://github.com/Wendy620/Attack.git
+cd Attack
 pip install -r requirements.txt
+```
+
+## 🖥️ Backend Installation
+```bash
+This project supports **four memory backends**. Install only the ones you need.
+
+### 1. Mem0
+pip install mem0ai
+
+### 2. Memoryos
+pip install memoryos-pro -i https://pypi.org/simple
+
+### 3.Memos
+pip install MemoryOS
+
+### 4.A-mem
+# Clone the repo
+git clone https://github.com/agiresearch/A-mem.git
+cd A-mem
+
+#### Create a virtual environment (optional but recommended)
+python -m venv .venv
+source .venv/bin/activate  # Windows: .venv\Scripts\activate
+
+#### Install A-mem
+pip install .
+
+After installation, return to the main project folder:
+
+cd ..
+```
 
 ## 🚀 Usage Examples
 ### 1. Build Index
