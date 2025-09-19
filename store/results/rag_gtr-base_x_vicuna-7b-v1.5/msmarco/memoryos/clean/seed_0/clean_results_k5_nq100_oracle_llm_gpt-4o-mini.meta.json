@@ -1,0 +1,14 @@
+{
+  "dataset": "msmarco",
+  "backend": "memoryos",
+  "namespace": "msmarco-gtr-smoke",
+  "emb_model": "gtr-base",
+  "llm_model": "vicuna-7b-v1.5",
+  "k": 5,
+  "num_queries": 100,
+  "seed": 0,
+  "oracle_llm": "gpt-4o-mini",
+  "queries_path": "/workspace/jamming_attack/corpus_poisoning/datasets/msmarco/queries.jsonl",
+  "saved_at": "2025-09-15 13:46:57",
+  "outfile": "/workspace/jamming_attack/store/results/rag_gtr-base_x_vicuna-7b-v1.5/msmarco/memoryos/clean/seed_0/clean_results_k5_nq100_oracle_llm_gpt-4o-mini.pkl"
+}

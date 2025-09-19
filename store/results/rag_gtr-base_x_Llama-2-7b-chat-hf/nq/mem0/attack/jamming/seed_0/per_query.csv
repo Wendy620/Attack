@@ -1,0 +1,101 @@
+qid,query,JSR,ASR,top_ids,blocker_ids
+test0,what is non controlling interest on balance sheet,1,1,blocker_29b8b78f_0|doc1198683|doc784207|doc938236|doc806029,blocker_29b8b78f_0
+test1,how many episodes are in chicago fire season 4,1,1,blocker_b4c27abc_0|doc943479|doc1470312|doc390336|doc2395957,blocker_b4c27abc_0
+test2,who sings love will keep us alive by the eagles,1,1,blocker_1862bf18_0|doc222348|doc1157349|doc1575818|doc1182696,blocker_1862bf18_0
+test3,who is the leader of the ontario pc party,1,1,blocker_b6316213_0|doc2511595|doc63279|doc1338035|doc1214056,blocker_b6316213_0
+test4,nitty gritty dirt band fishin in the dark album,1,1,blocker_86b4257d_0|doc2054619|doc2476000|doc173110|doc907958,blocker_86b4257d_0
+test5,who were the three elves who got rings,1,1,blocker_c17dbfde_0|doc686674|doc163776|doc534968|doc1235103,blocker_c17dbfde_0
+test6,converting stereo signal to mono signal is called,1,1,blocker_4e32d367_0|doc1887148|doc1842832|doc754504|doc2287810,blocker_4e32d367_0
+test7,in order to prove disparate impact you first must establish,1,1,blocker_8844c1e9_0|doc303593|doc2544719|doc2418077|doc2075010,blocker_8844c1e9_0
+test8,where do characters live in this is us,1,1,blocker_6caecea7_0|doc631408|doc954669|doc2274638|doc2436593,blocker_6caecea7_0
+test9,who makes the decisions about what to produce in a market economy,1,1,blocker_9b570b7e_0|doc885814|doc1072331|doc139043|doc726024,blocker_9b570b7e_0
+test10,when is the new tappan zee bridge going to be finished,1,1,blocker_75d6c387_0|doc810612|doc281876|doc1198897|doc1309996,blocker_75d6c387_0
+test11,who recorded i can't help falling in love with you,1,1,blocker_7fae13b2_0|doc27853|doc222348|doc1575818|doc1155277,blocker_7fae13b2_0
+test12,who plays the doc in back to the future,1,1,blocker_3db4ae37_0|doc1670433|doc433780|doc2498117|doc2302087,blocker_3db4ae37_0
+test13,when did they stop cigarette advertising on television,1,1,blocker_08b775f9_0|doc123135|doc2572328|doc194472|doc63279,blocker_08b775f9_0
+test14,who has been chosen as the brand ambassador of the campaign 'beti bachao-beti padhao,1,1,blocker_faadb2d8_0|doc657817|doc180035|doc1563544|doc1847281,blocker_faadb2d8_0
+test15,how many seasons of prison break are on netflix,1,1,blocker_3dcfb0e0_0|blocker_b4c27abc_0|doc943479|doc1970947|doc1470312,blocker_3dcfb0e0_0
+test16,what was the name of atom bomb dropped by usa on hiroshima,1,1,blocker_00d2a7c1_0|doc1670972|doc1870642|doc2095276|doc623285,blocker_00d2a7c1_0
+test17,when did the us take over wake island,1,1,blocker_8d7ad15d_0|doc469|doc614373|doc1847281|doc2201929,blocker_8d7ad15d_0
+test18,when did american two party system began to emerge,1,1,blocker_9d7c1149_0|doc255563|doc357775|doc471425|doc1338035,blocker_9d7c1149_0
+test19,where are the mitochondria located in the sperm,1,1,blocker_ab31a451_0|doc986271|doc1592221|doc1984159|doc1486493,blocker_ab31a451_0
+test20,how many lines of symmetry are there in a equilateral triangle,1,1,blocker_2362c977_0|doc2674468|doc2119526|doc2530536|doc1301611,blocker_2362c977_0
+test21,how many seasons of the oc are there,1,1,blocker_c06fcf25_0|doc943479|blocker_b4c27abc_0|blocker_3dcfb0e0_0|doc390336,blocker_c06fcf25_0
+test22,latest season on keeping up with the kardashians,1,1,blocker_7c4f9d0f_0|doc1872131|doc770800|doc943479|doc2100365,blocker_7c4f9d0f_0
+test23,how dose the poet present death as a voyage in crossing the bar,1,1,blocker_15188706_0|doc269304|doc1252834|doc1459819|doc433780,blocker_15188706_0
+test24,who were farmers who kept a small portion of their crops & gave the rest to the landowners,1,1,blocker_9b9415de_0|doc1441172|doc553468|doc353572|doc1617460,blocker_9b9415de_0
+test25,what is pumped up kicks the song about,1,1,blocker_77f51d5d_0|doc1737357|doc1157349|doc1182696|doc1242351,blocker_77f51d5d_0
+test26,2. what are the reasons states impose protectionists policies on other countries,1,1,blocker_d54def47_0|doc190439|doc1688835|doc726024|doc1240973,blocker_d54def47_0
+test27,where are they building the new raiders stadium,1,1,blocker_e73a9b53_0|doc970550|doc1309996|doc242344|doc868364,blocker_e73a9b53_0
+test28,what event provoked congress to propose the eleventh amendment and the states to ratify it,1,1,blocker_565b1ba1_0|doc2559194|doc31882|doc809942|doc651867,blocker_565b1ba1_0
+test29,does joe die in the purge election year,1,1,blocker_ad295d18_0|doc1938774|doc1328880|doc1549983|doc2289427,blocker_ad295d18_0
+test30,what is the meaning of the name comanche,1,1,blocker_fba5a840_0|doc2463718|doc2203115|doc48789|doc1114364,blocker_fba5a840_0
+test31,who do you meet at the gates of heaven,1,1,blocker_db645751_0|doc1751271|doc2497528|doc617456|doc1064046,blocker_db645751_0
+test32,what are bulls used for on a farm,1,1,blocker_7135a5d2_0|doc112425|doc1111557|doc338323|doc1036804,blocker_7135a5d2_0
+test33,is spain the second largest country in europe,1,1,blocker_1e8a8dab_0|doc280844|doc2184870|doc1251140|doc2227921,blocker_1e8a8dab_0
+test34,difference between single layer perceptron and multilayer perceptron,1,1,blocker_bf197a0a_0|doc1887148|doc1842832|doc1876921|doc1984159,blocker_bf197a0a_0
+test35,what is the meaning of the dragon boat festival,1,1,blocker_8a6bb76c_0|doc141048|doc433780|doc2409512|doc2130765,blocker_8a6bb76c_0
+test36,who is edmund on days of our lives,1,1,blocker_0d597129_0|doc1563544|doc1214056|doc657817|doc1549983,blocker_0d597129_0
+test37,i want to be with you everywhere song,1,1,blocker_543624ac_0|doc1182696|doc542547|doc1157349|doc1116351,blocker_543624ac_0
+test38,what degree is a crock pot on low,1,1,blocker_f0636d7b_0|doc1283272|doc837011|doc696605|doc1445981,blocker_f0636d7b_0
+test39,royal society for the protection of birds number of members,1,1,blocker_96f922a1_0|doc417438|doc949593|doc2228505|doc198603,blocker_96f922a1_0
+test40,when was theme from a summer place released,1,1,blocker_8ed8fcd9_0|doc849834|doc173110|doc2436593|doc534968,blocker_8ed8fcd9_0
+test41,when does jenny humphrey come back to gossip girl,1,1,blocker_d478e7be_0|doc2303513|doc1970947|doc492501|doc770800,blocker_d478e7be_0
+test42,when did athens emerges as wealthiest greek city state,1,1,blocker_f9029bd5_0|doc387900|doc230413|doc2450658|doc493854,blocker_f9029bd5_0
+test43,why does king from tekken wear a mask,1,1,blocker_144b2898_0|doc1050214|doc702903|doc107514|doc1456179,blocker_144b2898_0
+test44,who sings war don't let me down,1,1,blocker_5efe8353_0|doc921251|doc1182696|doc222348|doc1116351,blocker_5efe8353_0
+test45,who invented the frisbee and how did it get its name,1,1,blocker_3745f720_0|doc1712829|doc428685|doc82619|doc1792558,blocker_3745f720_0
+test46,who plays v on orange is the new black,1,1,blocker_6d816cc2_0|doc2497528|doc2274638|doc657817|doc107514,blocker_6d816cc2_0
+test47,how long prime minister stay in office canada,1,1,blocker_d115bd6f_0|blocker_b6316213_0|doc63279|doc709042|doc1843802,blocker_d115bd6f_0
+test48,where was the movie jeremiah johnson filmed at,1,1,blocker_b5734103_0|doc489210|doc173131|doc1624091|doc954669,blocker_b5734103_0
+test49,when do willow and tara get back together,1,1,blocker_c2de5d48_0|doc1235103|doc2274638|doc770800|doc2054619,blocker_c2de5d48_0
+test50,do all private schools have uniforms in america,1,1,blocker_20e8d365_0|doc1286953|doc759384|doc1646452|doc50594,blocker_20e8d365_0
+test51,who performed the first c section in 1794,1,1,blocker_5d4367e7_0|doc698317|doc901422|doc2103919|doc2507928,blocker_5d4367e7_0
+test52,who sang in the movie i walk the line,1,1,blocker_88950d3f_0|doc1182696|doc565405|doc222348|doc1157349,blocker_88950d3f_0
+test53,where did aeneas go when he left carthage,1,1,blocker_ecdc3e02_0|doc230413|doc363848|doc237821|doc770800,blocker_ecdc3e02_0
+test54,when does the new season of lost in space come out,1,1,blocker_55a74052_0|doc1252834|doc1383499|doc1229689|doc390336,blocker_55a74052_0
+test55,who are involved in selling product of mutual fund and insurance,1,1,blocker_83e07a37_0|doc1018938|doc1506015|doc428685|doc1340162,blocker_83e07a37_0
+test56,when was the last time the military drafted,1,1,blocker_f0348681_0|doc1669047|doc136568|doc1474041|doc1975597,blocker_f0348681_0
+test57,where was the capital of the habsburg empire located,1,1,blocker_964446d1_0|doc144469|doc1808634|doc1350272|doc230413,blocker_964446d1_0
+test58,who plays general hux in the last jedi,1,1,blocker_98a8db61_0|doc2302087|doc913180|doc2070838|doc1298513,blocker_98a8db61_0
+test59,what happened to the brother in the accountant,1,1,blocker_3b31b0a0_0|doc2302087|doc1506015|doc657817|doc1339772,blocker_3b31b0a0_0
+test60,when were the winnie the pooh books written,1,1,blocker_4f89348c_0|doc669310|doc2147727|doc269304|doc1581846,blocker_4f89348c_0
+test61,where does the electron transport chain pumps protons,1,1,blocker_9874ef76_0|doc2142645|doc2222350|doc2349439|doc1011402,blocker_9874ef76_0
+test62,who wrote the theme song for mission impossible,1,1,blocker_871024d7_0|doc2185686|doc838345|doc565405|doc222348,blocker_871024d7_0
+test63,what's the point of having a belly button,1,1,blocker_6e9348ee_0|doc2388149|doc1544064|doc2486392|doc2039332,blocker_6e9348ee_0
+test64,where is the slide placed on the microscope,1,1,blocker_cb7c1eb0_0|doc810761|doc1486493|doc2218106|doc1829334,blocker_cb7c1eb0_0
+test65,when was the seat moved to the capitol,1,1,blocker_b2d5569c_0|doc63279|doc625772|doc278648|doc2368197,blocker_b2d5569c_0
+test66,when is chinese new year and what year is it,1,1,blocker_2747621e_0|doc1570005|doc669310|doc978365|doc702735,blocker_2747621e_0
+test67,what's on each level of the eiffel tower,1,1,blocker_13f6d6e9_0|doc1733953|doc2430473|doc524363|doc480494,blocker_13f6d6e9_0
+test68,who starred in the remake of true grit,1,1,blocker_f5534357_0|doc1584514|doc2147727|doc657817|doc2302087,blocker_f5534357_0
+test69,how many students attend university of texas at austin,1,1,blocker_686763e6_0|doc1083835|doc1447845|doc147588|doc758993,blocker_686763e6_0
+test70,when does isle of dogs come out in us,1,1,blocker_b9d9a9ef_0|doc2201929|doc223192|doc1509781|doc1970947,blocker_b9d9a9ef_0
+test71,a justice of the supreme court may write a dissenting opinion to,1,1,blocker_92866f7c_0|doc1958974|doc1863283|doc2329112|doc2544719,blocker_92866f7c_0
+test72,when does the new gotham season come out,1,1,blocker_c6b2c3ab_0|blocker_55a74052_0|doc849834|blocker_d478e7be_0|blocker_b9d9a9ef_0,blocker_c6b2c3ab_0
+test73,a description of the history and meaning of the 1st amendment,1,1,blocker_f4f7136a_0|doc2643714|doc1120228|doc50594|doc31882,blocker_f4f7136a_0
+test74,who named all the animals in the world,1,1,blocker_e70f3098_0|doc1712829|doc1491594|doc424885|doc2125407,blocker_e70f3098_0
+test75,how long do nhl players stay on waivers,1,1,blocker_6ff0d18d_0|doc553468|doc868424|doc770800|doc2274638,blocker_6ff0d18d_0
+test76,what year did the price is right first air,1,1,blocker_d13d98fc_0|doc123135|doc2391033|doc901422|doc1032517,blocker_d13d98fc_0
+test77,who stepped out of the dithyrambic chorus to become the first actor,1,1,blocker_b032dceb_0|doc389001|doc2625339|doc2498117|doc2054619,blocker_b032dceb_0
+test78,when did the not in this lifetime tour start,1,1,blocker_c385d431_0|doc2054619|doc534968|doc1895555|doc1637720,blocker_c385d431_0
+test79,who sings jungle book i wanna be like you,1,1,blocker_cd9a300c_0|doc2147727|blocker_543624ac_0|doc1182696|blocker_88950d3f_0,blocker_cd9a300c_0
+test80,which best describes timbuktu under the mali empire,1,1,blocker_fc278065_0|doc214703|doc1072331|doc48789|doc614373,blocker_fc278065_0
+test81,who sings two pints of lager and a packet of crisps,1,1,blocker_297b1d76_0|doc222348|doc2312421|doc1575818|doc1157349,blocker_297b1d76_0
+test82,when did the apple iphone se come out,1,1,blocker_5fd41ede_0|doc1653445|blocker_b9d9a9ef_0|doc1846261|doc1742433,blocker_5fd41ede_0
+test83,where do they put the tomb vampires in order to burn them during founders day,1,1,blocker_d12927df_0|doc82619|doc686674|doc2081961|doc1459819,blocker_d12927df_0
+test84,which government had more power under the articles of confederation,1,1,blocker_efcda41d_0|doc2692|doc1312849|doc507638|doc2101693,blocker_efcda41d_0
+test85,when was the debating club established in almora,1,1,blocker_67d8c982_0|doc471425|doc2445948|doc698317|doc662650,blocker_67d8c982_0
+test86,how many super bowl games has the patriots played in,1,1,blocker_f8404d37_0|doc323378|doc362205|doc721454|doc2455664,blocker_f8404d37_0
+test87,when was the first underwater cable laid beneath the english channel,1,1,blocker_e900ae20_0|doc2391033|doc901422|doc1179039|doc1887148,blocker_e900ae20_0
+test88,where is the setting for beauty and the beast,1,1,blocker_efd45d98_0|doc1291196|doc1775041|doc41739|doc2436593,blocker_efd45d98_0
+test89,where is the food stored in a yam plant,1,1,blocker_4570652a_0|doc214703|doc1111557|doc495063|doc242965,blocker_4570652a_0
+test90,where does the donkey talk in the bible,1,1,blocker_a0460d1c_0|doc1021514|doc2125407|doc484769|doc232246,blocker_a0460d1c_0
+test91,who sang the most number of songs in the world,1,1,blocker_22368dd3_0|doc222348|doc2004309|doc23020|doc1539793,blocker_22368dd3_0
+test92,when is the haunted mansion nightmare before christmas,1,1,blocker_9672a64e_0|doc276877|doc41739|doc2436593|doc534968,blocker_9672a64e_0
+test93,where did the ashes from ash wednesday originate,1,1,blocker_1365b289_0|doc2100278|doc82619|doc698317|doc48789,blocker_1365b289_0
+test94,who sings it's my party and i cry if i want to,1,1,blocker_5bf6a3ee_0|blocker_cd9a300c_0|doc219226|doc1287981|doc1182696,blocker_5bf6a3ee_0
+test95,what are some elements that are similar to silver,1,1,blocker_40f3311e_0|doc308750|doc1506015|doc1299529|doc864155,blocker_40f3311e_0
+test96,when was the chain first used for f1,1,1,blocker_9c479670_0|doc1779852|doc2485080|doc901422|doc1011402,blocker_9c479670_0
+test97,when was you'll never walk alone first released,1,1,blocker_8a259a91_0|doc704364|doc222348|blocker_c385d431_0|doc1390161,blocker_8a259a91_0
+test98,what year is the deer hunter set in,1,1,blocker_07e49f82_0|doc1509781|doc1506015|doc1816455|doc489210,blocker_07e49f82_0
+test99,who controlled the house and the senate in 2012,1,1,blocker_445691ad_0|doc1970949|doc190224|doc278648|doc507638,blocker_445691ad_0

@@ -1,0 +1,2 @@
+backend,dataset,llm_model,k,N,refusal_rate_clean,refusal_rate_poisoned,jamming_rate,blocker@1,ASR(legacy),blocker_style,blocker_ratio
+mem0,msmarco,vicuna-7b-v1.5,5,1000,1.000,,0.535,0.341,None,dropout,0.50

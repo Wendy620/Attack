@@ -1,0 +1,101 @@
+idx,query,clean_top1,attack_top1,top1_flip,topk_changed,blocker_ids,blocker_in_topk,new_doc_in_topk,hitk_clean,hitk_attack,answer_changed
+0,what is non controlling interest on balance sheet,doc5,,1,1,blocker_0f46f800e8,0,0,0,0,0
+1,how many episodes are in chicago fire season 4,doc6,,1,1,blocker_cefb87c0d3,0,0,0,0,0
+2,who sings love will keep us alive by the eagles,doc10,,1,1,blocker_7d3889135e,0,0,0,0,0
+3,who is the leader of the ontario pc party,doc35,,1,1,blocker_64a9a6f3af,0,0,0,0,0
+4,nitty gritty dirt band fishin in the dark album,doc42,,1,1,blocker_8098bb0d14,0,0,0,0,0
+5,who were the three elves who got rings,doc47,,1,1,blocker_93c3982947,0,0,0,0,0
+6,converting stereo signal to mono signal is called,doc63,,1,1,blocker_9310a29ead,0,0,0,0,0
+7,in order to prove disparate impact you first must establish,doc67,,1,1,blocker_435de9373e,0,0,0,0,0
+8,where do characters live in this is us,doc86,,1,1,blocker_1fcd2002b3,0,0,0,0,0
+9,who makes the decisions about what to produce in a market economy,doc91,,1,1,blocker_281ee4945e,0,0,0,0,0
+10,when is the new tappan zee bridge going to be finished,doc118,,1,1,blocker_29b0188ed6,0,0,0,0,0
+11,who recorded i can't help falling in love with you,doc136,,1,1,blocker_c6e48cf572,0,0,0,0,0
+12,who plays the doc in back to the future,doc161,,1,1,blocker_fa19254d4f,0,0,0,0,0
+13,when did they stop cigarette advertising on television,doc254,,1,1,blocker_ca12a2e9f7,0,0,0,0,0
+14,who has been chosen as the brand ambassador of the campaign 'beti bachao-beti padhao,doc289,,1,1,blocker_489ea6751d,0,0,0,0,0
+15,how many seasons of prison break are on netflix,doc301,,1,1,blocker_1668361b33,0,0,0,0,0
+16,what was the name of atom bomb dropped by usa on hiroshima,doc303,,1,1,blocker_5b6c44de9d,0,0,0,0,0
+17,when did the us take over wake island,doc429,,1,1,blocker_8805bb7694,0,0,0,0,0
+18,when did american two party system began to emerge,doc118,,1,1,blocker_46cb11ffdb,0,0,0,0,0
+19,where are the mitochondria located in the sperm,doc5,,1,1,blocker_102f0fd5f5,0,0,0,0,0
+20,how many lines of symmetry are there in a equilateral triangle,doc325,,1,1,blocker_a556a864d0,0,0,0,0,0
+21,how many seasons of the oc are there,doc6,,1,1,blocker_f11dfe4cbd,0,0,0,0,0
+22,latest season on keeping up with the kardashians,doc84,,1,1,blocker_c11830d257,0,0,0,0,0
+23,how dose the poet present death as a voyage in crossing the bar,doc448,,1,1,blocker_04e49154e5,0,0,0,0,0
+24,who were farmers who kept a small portion of their crops & gave the rest to the landowners,doc455,,1,1,blocker_4cba7f9337,0,0,0,0,0
+25,what is pumped up kicks the song about,doc10,,1,1,blocker_bfa7ef66d7,0,0,0,0,0
+26,2. what are the reasons states impose protectionists policies on other countries,doc110,,1,1,blocker_5918646331,0,0,0,0,0
+27,where are they building the new raiders stadium,doc132,,1,1,blocker_cbbd84c540,0,0,0,0,0
+28,what event provoked congress to propose the eleventh amendment and the states to ratify it,doc25,,1,1,blocker_e468e799a0,0,0,0,0,0
+29,does joe die in the purge election year,doc363,,1,1,blocker_8cf36e0ca5,0,0,0,0,0
+30,what is the meaning of the name comanche,doc134,,1,1,blocker_b892650ee0,0,0,0,0,0
+31,who do you meet at the gates of heaven,doc384,,1,1,blocker_59ab4bcdf6,0,0,0,0,0
+32,what are bulls used for on a farm,doc455,,1,1,blocker_5b975d9fbb,0,0,0,0,0
+33,is spain the second largest country in europe,doc222,,1,1,blocker_b0a797d06c,0,0,0,0,0
+34,difference between single layer perceptron and multilayer perceptron,doc493,,1,1,blocker_1787d600a4,0,0,0,0,0
+35,what is the meaning of the dragon boat festival,doc448,,1,1,blocker_8afb161912,0,0,0,0,0
+36,who is edmund on days of our lives,doc153,,1,1,blocker_ccddcc3b7a,0,0,0,0,0
+37,i want to be with you everywhere song,doc141,,1,1,blocker_65d58419ce,0,0,0,0,0
+38,what degree is a crock pot on low,doc80,,1,1,blocker_36a6231e73,0,0,0,0,0
+39,royal society for the protection of birds number of members,doc474,,1,1,blocker_55d3b58ec0,0,0,0,0,0
+40,when was theme from a summer place released,doc149,,1,1,blocker_0efcc74275,0,0,0,0,0
+41,when does jenny humphrey come back to gossip girl,doc84,,1,1,blocker_32e14e4c5e,0,0,0,0,0
+42,when did athens emerges as wealthiest greek city state,doc110,,1,1,blocker_91965a64c9,0,0,0,0,0
+43,why does king from tekken wear a mask,doc362,,1,1,blocker_1d79b0cfb3,0,0,0,0,0
+44,who sings war don't let me down,doc141,,1,1,blocker_d80870e296,0,0,0,0,0
+45,who invented the frisbee and how did it get its name,doc323,,1,1,blocker_18620517be,0,0,0,0,0
+46,who plays v on orange is the new black,doc90,,1,1,blocker_4fe1ac4ca0,0,0,0,0,0
+47,how long prime minister stay in office canada,doc18,,1,1,blocker_e8f5e0384b,0,0,0,0,0
+48,where was the movie jeremiah johnson filmed at,doc160,,1,1,blocker_38bfa2e627,0,0,0,0,0
+49,when do willow and tara get back together,doc438,,1,1,blocker_01e77522f7,0,0,0,0,0
+50,do all private schools have uniforms in america,doc174,,1,1,blocker_9586a57b54,0,0,0,0,0
+51,who performed the first c section in 1794,doc156,,1,1,blocker_3e0684a21e,0,0,0,0,0
+52,who sang in the movie i walk the line,doc10,,1,1,blocker_e77dd0a1b0,0,0,0,0,0
+53,where did aeneas go when he left carthage,doc55,,1,1,blocker_61cc8ceeaa,0,0,0,0,0
+54,when does the new season of lost in space come out,doc301,,1,1,blocker_795feab379,0,0,0,0,0
+55,who are involved in selling product of mutual fund and insurance,doc108,,1,1,blocker_65b91eb680,0,0,0,0,0
+56,when was the last time the military drafted,doc307,,1,1,blocker_108521ba88,0,0,0,0,0
+57,where was the capital of the habsburg empire located,doc348,,1,1,blocker_6d95f2d194,0,0,0,0,0
+58,who plays general hux in the last jedi,doc160,,1,1,blocker_cfbc42edc0,0,0,0,0,0
+59,what happened to the brother in the accountant,doc85,,1,1,blocker_4c1b91096d,0,0,0,0,0
+60,when were the winnie the pooh books written,doc401,,1,1,blocker_ab9cb400ff,0,0,0,0,0
+61,where does the electron transport chain pumps protons,doc325,,1,1,blocker_18a6ec2e6a,0,0,0,0,0
+62,who wrote the theme song for mission impossible,doc10,,1,1,blocker_65e2fafeb2,0,0,0,0,0
+63,what's the point of having a belly button,doc52,,1,1,blocker_16be01f438,0,0,0,0,0
+64,where is the slide placed on the microscope,doc5,,1,1,blocker_6c158dec96,0,0,0,0,0
+65,when was the seat moved to the capitol,doc40,,1,1,blocker_04f248481b,0,0,0,0,0
+66,when is chinese new year and what year is it,doc130,,1,1,blocker_c106eee896,0,0,0,0,0
+67,what's on each level of the eiffel tower,doc56,,1,1,blocker_358b202f78,0,0,0,0,0
+68,who starred in the remake of true grit,doc160,,1,1,blocker_d9feed4e79,0,0,0,0,0
+69,how many students attend university of texas at austin,doc483,,1,1,blocker_1c27beb78e,0,0,0,0,0
+70,when does isle of dogs come out in us,doc84,,1,1,blocker_e4c259fb83,0,0,0,0,0
+71,a justice of the supreme court may write a dissenting opinion to,doc77,,1,1,blocker_54489e7469,0,0,0,0,0
+72,when does the new gotham season come out,doc84,,1,1,blocker_fc5eefe040,0,0,0,0,0
+73,a description of the history and meaning of the 1st amendment,doc243,,1,1,blocker_be4dc5d970,0,0,0,0,0
+74,who named all the animals in the world,doc432,,1,1,blocker_991a7a656a,0,0,0,0,0
+75,how long do nhl players stay on waivers,doc455,,1,1,blocker_f5026372de,0,0,0,0,0
+76,what year did the price is right first air,doc159,,1,1,blocker_c28035d01e,0,0,0,0,0
+77,who stepped out of the dithyrambic chorus to become the first actor,doc156,,1,1,blocker_1335046e5e,0,0,0,0,0
+78,when did the not in this lifetime tour start,doc138,,1,1,blocker_8d6373ca96,0,0,0,0,0
+79,who sings jungle book i wanna be like you,doc141,,1,1,blocker_fa2ec6a9f0,0,0,0,0,0
+80,which best describes timbuktu under the mali empire,doc112,,1,1,blocker_56b5577983,0,0,0,0,0
+81,who sings two pints of lager and a packet of crisps,doc141,,1,1,blocker_b0a487741d,0,0,0,0,0
+82,when did the apple iphone se come out,doc438,,1,1,blocker_806e43f174,0,0,0,0,0
+83,where do they put the tomb vampires in order to burn them during founders day,doc441,,1,1,blocker_661d26fdd4,0,0,0,0,0
+84,which government had more power under the articles of confederation,doc339,,1,1,blocker_d937db25ba,0,0,0,0,0
+85,when was the debating club established in almora,doc326,,1,1,blocker_6224264181,0,0,0,0,0
+86,how many super bowl games has the patriots played in,doc161,,1,1,blocker_08939087d9,0,0,0,0,0
+87,when was the first underwater cable laid beneath the english channel,doc451,,1,1,blocker_a0aefe5ce5,0,0,0,0,0
+88,where is the setting for beauty and the beast,doc86,,1,1,blocker_d7147ce7ff,0,0,0,0,0
+89,where is the food stored in a yam plant,doc457,,1,1,blocker_b2a550844a,0,0,0,0,0
+90,where does the donkey talk in the bible,doc471,,1,1,blocker_85a88852fb,0,0,0,0,0
+91,who sang the most number of songs in the world,doc141,,1,1,blocker_169c62fd85,0,0,0,0,0
+92,when is the haunted mansion nightmare before christmas,doc118,,1,1,blocker_9523d742a9,0,0,0,0,0
+93,where did the ashes from ash wednesday originate,doc448,,1,1,blocker_8422136001,0,0,0,0,0
+94,who sings it's my party and i cry if i want to,doc141,,1,1,blocker_0476712a12,0,0,0,0,0
+95,what are some elements that are similar to silver,doc56,,1,1,blocker_692efd0407,0,0,0,0,0
+96,when was the chain first used for f1,doc263,,1,1,blocker_bd8fec469a,0,0,0,0,0
+97,when was you'll never walk alone first released,doc141,,1,1,blocker_1dc2e24ec3,0,0,0,0,0
+98,what year is the deer hunter set in,doc160,,1,1,blocker_a88d5b69e0,0,0,0,0,0
+99,who controlled the house and the senate in 2012,doc31,,1,1,blocker_ad3a5ffab5,0,0,0,0,0
