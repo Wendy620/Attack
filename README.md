@@ -29,6 +29,7 @@ git clone https://github.com/avitalsh/jamming_attack.git
 # Copy datasets into our project
 mkdir -p corpus_poisoning/datasets
 cp -r jamming_attack/corpus_poisoning/datasets/* corpus_poisoning/datasets/
+```
 
 Ensure the structure looks like:
 corpus_poisoning/datasets/
@@ -38,7 +39,6 @@ corpus_poisoning/datasets/
   ├─ msmarco/
   │  ├─ corpus.jsonl
   │  ├─ queries.jsonl
-```
 
 ## ⚙️ Installation
 
@@ -75,7 +75,7 @@ source .venv/bin/activate  # Windows: .venv\Scripts\activate
 # Install A-mem
 pip install .
 
-#After installation, return to the main project folder:
+# After installation, return to the main project folder:
 cd ..
 ```
 
