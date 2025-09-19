@@ -54,29 +54,28 @@ pip install -r requirements.txt
 ```bash
 This project supports **four memory backends**. Install only the ones you need.
 
-### 1. Mem0
+# 1. Mem0
 pip install mem0ai
 
-### 2. Memoryos
+# 2. Memoryos
 pip install memoryos-pro -i https://pypi.org/simple
 
-### 3.Memos
+# 3.Memos
 pip install MemoryOS
 
-### 4.A-mem
+# 4.A-mem
 # Clone the repo
 git clone https://github.com/agiresearch/A-mem.git
 cd A-mem
 
-#### Create a virtual environment (optional but recommended)
+# Create a virtual environment (optional but recommended)
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 
-#### Install A-mem
+# Install A-mem
 pip install .
 
-After installation, return to the main project folder:
-
+#After installation, return to the main project folder:
 cd ..
 ```
 
