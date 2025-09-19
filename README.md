@@ -4,9 +4,8 @@ This repository implements experiments from
 [**Machine Against the RAG: Jamming Retrieval-Augmented Generation with Blocker Documents**](https://github.com/avitalsh/jamming_attack).  
 It includes scripts for indexing, clean baseline generation, and adversarial attacks with multiple memory systems.
 
----
-
 ## 📂 Project Structure
+```bash
 jamming_attack/
 ├── adapters/ # Memory system adapters (Mem0, MemOS, A-mem, etc.)
 ├── utils/ # IO, embeddings, and seed control
@@ -15,8 +14,7 @@ jamming_attack/
 ├── get_clean_memsys.py # Generate clean baseline (no attack)
 ├── attack.py # Run jamming attack experiments
 └── requirements.txt # Dependencies
-
----
+```
 
 ## 📥 Data Download
 
@@ -30,7 +28,7 @@ git clone https://github.com/avitalsh/jamming_attack.git
 mkdir -p corpus_poisoning/datasets
 cp -r jamming_attack/corpus_poisoning/datasets/* corpus_poisoning/datasets/
 ```
-
+```bash
 Ensure the structure looks like:
 corpus_poisoning/datasets/
   ├─ nq/
@@ -39,6 +37,7 @@ corpus_poisoning/datasets/
   ├─ msmarco/
   │  ├─ corpus.jsonl
   │  ├─ queries.jsonl
+```
 
 ## ⚙️ Installation
 
