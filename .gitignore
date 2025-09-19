@@ -20,3 +20,4 @@ corpus_poisoning/datasets/
 *.pt
 *.so
 *.jsonl
+.ipynb_checkpoints/
