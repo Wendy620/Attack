@@ -1,9 +1,22 @@
+# Python venv
 .venv/
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
-huggingface/
+
+# Cache & Checkpoints
 .cache/
-store/indices/
-store/caches/
-# store/results/
+huggingface/
+store/
+logs/
+
+# Large data
+data/
+datasets/
+corpus_poisoning/datasets/
+
+# Ignore any large binary
+*.zip
+*.bin
+*.pt
+*.so
+*.jsonl
